@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-disney/static/css/main.cfceba10.css",
+    "main.js": "/react-disney/static/js/main.74ea6e40.js",
+    "static/js/787.b9d71508.chunk.js": "/react-disney/static/js/787.b9d71508.chunk.js",
+    "index.html": "/react-disney/index.html",
+    "main.cfceba10.css.map": "/react-disney/static/css/main.cfceba10.css.map",
+    "main.74ea6e40.js.map": "/react-disney/static/js/main.74ea6e40.js.map",
+    "787.b9d71508.chunk.js.map": "/react-disney/static/js/787.b9d71508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfceba10.css",
+    "static/js/main.74ea6e40.js"
+  ]
+}
